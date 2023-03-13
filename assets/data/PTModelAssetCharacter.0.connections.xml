@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"/>
+
+<plist version="1.0">
+    <dict>
+        <key>ROOT</key>
+        <array>
+            <dict>
+                <key>id</key>
+                <string>2458</string>
+                <key>Default Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>2460</string>
+                </dict>
+                <key>Shooting Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>22595</string>
+                </dict>
+                <key>Bullet Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>22441</string>
+                </dict>
+                <key>Jump Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>2494</string>
+                </dict>
+                <key>Move Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>2486</string>
+                </dict>
+                <key>Defeated Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>2471</string>
+                </dict>
+                <key>Jump Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>12007</string>
+                </dict>
+                <key>components</key>
+                <array>
+                    <string>2464</string>
+                    <string>8840</string>
+                </array>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>8865</string>
+                <key>Default Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>8867</string>
+                </dict>
+                <key>Jump Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>10004</string>
+                </dict>
+                <key>Move Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>10020</string>
+                </dict>
+                <key>Defeated Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>10030</string>
+                </dict>
+                <key>Jump Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>12332</string>
+                </dict>
+                <key>components</key>
+                <array>
+                    <string>8871</string>
+                    <string>8872</string>
+                </array>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>9297</string>
+                <key>Default Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>9299</string>
+                </dict>
+                <key>Jump Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>9368</string>
+                </dict>
+                <key>Move Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>9360</string>
+                </dict>
+                <key>Defeated Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>9377</string>
+                </dict>
+                <key>Jump Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>12007</string>
+                </dict>
+                <key>components</key>
+                <array>
+                    <string>9303</string>
+                    <string>9304</string>
+                </array>
+            </dict>
+        </array>
+    </dict>
+</plist>
